@@ -35,4 +35,6 @@
 - Каникулы две недели конец февраля, начало марта   
 
 ## Материалы
-Книги: [link](https://www.postgrespro.ru/education/books)     
+- [docs](https://postgrespro.ru/docs/postgresql/15)  
+- [books](https://www.postgrespro.ru/education/books)
+   
